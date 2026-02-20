@@ -1,15 +1,65 @@
-### Hi there, My name is Willian ferreira 👋
+<h1 align="center">Hi 👋, I'm Willian Ferreira</h1>
+<h3 align="center">🔐 Cybersecurity Engineer | ☁️ Cloud Security | 💻 Secure Developer</h3>
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=willian20091&show_icons=true&theme=dracula&count_private=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Cloud+Security+Specialist;Application+Security+Engineer;Security+Automation+Builder;OCI+Security+Professional" />
+</p>
 
-## Technologies I use in my day
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img align="center" alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div><br/>
+## 🧠 About Me
+
+- 🛡 12+ years in IT | 6+ years in Cybersecurity  
+- ☁️ Strong background in Cloud Security Architecture  
+- 🔍 Experience in Detection, Incident Response & Hardening  
+- 💻 Developer mindset with focus on secure code & automation  
+
+I combine **defensive security knowledge** with **development skills** to build secure and automated solutions.
+
+---
+
+## 🔐 Cybersecurity Focus
+
+- Identity & Access Management (IAM)
+- Cloud Security (OCI focus, AWS & Azure knowledge)
+- Security Assessments & Hardening
+- SIEM Engineering (QRadar & Splunk)
+- SAST & Secure Code Review
+- WAF, IDS/IPS, EDR
+
+---
+
+## 💻 Development & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,flask" />
+</p>
+
+- Python (security automation & tooling)
+- Java
+- Oracle APEX
+- SQL & PL/SQL
+- Bash / Shell scripting
+
+---
+
+## ☁️ Cloud Certifications
+
+🏆 Oracle Cloud Infrastructure 2025 Security Professional (1Z0-1104-25)  
+🏆 Oracle Cloud Infrastructure 2025 Multicloud Architect Professional (1Z0-1151-25)  
+🏆 Oracle Cloud Infrastructure 2023 Architect Associate (1Z0-1072-23)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=willian20091&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willian20091&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Security + Cloud + Code ⚡
+</p>
